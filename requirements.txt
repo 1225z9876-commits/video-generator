@@ -1,0 +1,9 @@
+streamlit
+requests
+speech_recognition
+googletrans==3.1.0a0
+pexels-api
+pydub
+moviepy
+arabic-reshaper
+python-bidi
